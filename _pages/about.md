@@ -10,3 +10,17 @@ redirect_from:
 
 Hi! This is Minxing Zhang, and I'm a second-year PhD student in CISPA under the supervision of Prof. [Michael Backes](https://cispa.de/en/about/director-page) and Dr. [Xiao Zhang](https://xiao-zhang.net/). My research interests are Security & Privacy, and Trustworthy Machine Learning. And I obtained my B.S. degree in Shandong University (2020) under the supervision of Dr. [Zhaochun Ren](https://renzhaochun.github.io/).
 My CV is available [here](./CV.pdf).
+
+### What's New!
+
+[10/2023] Our paper titled [Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](https://ieeexplore.ieee.org/document/10484149) was accepted by [IEEE/CVF WACV2024](https://wacv2024.thecvf.com/).
+
+[10/2023] We released our paper titled [Generating Less Certain Adversarial Examples Improves Robust Generalization](https://arxiv.org/abs/2310.04539) that proposes to improve robust generalization by our novel definition _Adversarial Certainty_.
+
+[10/2022] I started my PhD study at [CISPA](https://cispa.de/en).
+
+[09/2021] Our paper titled [Membership Inference Attacks Against Recommender Systems](https://dl.acm.org/doi/10.1145/3460120.3484770) was accepted by [ACM CCS 2021](https://www.sigsac.org/ccs/CCS2021/).
+
+[05/2021] I joined [CISPA](https://cispa.de/en) as a preparatory-phase student.
+
+[06/2020] I obtained my bachelor's degree.
