@@ -12,8 +12,8 @@ main:
   - title: "Service"
     url: /service/
         
-  - title: "Blogs"
-    url: /blogs/
+  # - title: "Blogs"
+  #   url: /blogs/
     
   - title: "Memory"
     url: /memory/
