@@ -17,16 +17,24 @@ IEEE/CVF WACV, 2024
 
 -------------------------------------
 
-[Generating Less Certain Adversarial Examples Improves Robust Generalization](https://arxiv.org/abs/2310.04539)
-
-_**Minxing Zhang**, Michael Backes, Xiao Zhang_
-
-arXiv, 2023
-
--------------------------------------
-
 [Membership Inference Attacks Against Recommender Systems](https://arxiv.org/abs/2109.08045)
 
 _**Minxing Zhang**, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang_
 
 ACM CCS, 2021
+
+-------------------------------------
+
+[Vera Verto: Multimodal Hijacking Attack](https://arxiv.org/abs/2408.00129)
+
+_**Minxing Zhang**, Ahmed Salem, Michael Backes, Yang Zhang_
+
+arXiv
+
+-------------------------------------
+
+[Generating Less Certain Adversarial Examples Improves Robust Generalization](https://arxiv.org/abs/2310.04539)
+
+_**Minxing Zhang**, Michael Backes, Xiao Zhang_
+
+arXiv
