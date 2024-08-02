@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minxing Zhang / a PhD student"
 title_separator          : "-"
 name                     : &name "Minxing Zhang"
-description              : &description "A PhD student in CISPA"
+description              : &description "A PhD student at CISPA"
 url                      : https://minxingzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minxingzhang/minxingzhang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Minxing Zhang"
   avatar           : "minxingzhang.png"
-  bio              : "A PhD Student in CISPA"
+  bio              : "A PhD Student at CISPA"
   location         : "Saarbrücken, Germany"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao"
+  email            : "mailto: minxing.zhang@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  #twitter          : #"replacethistwitterhandle"
+  twitter          : "https://x.com/whoismxmxmx"
   vine             :
   weibo            :
   xing             :
