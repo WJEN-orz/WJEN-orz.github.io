@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao"
-  email            : "mailto: minxing.zhang@cispa.de"
+  email            : "minxing.zhang@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/whoismxmxmx"
+  twitter          : "whoismxmxmx"
   vine             :
   weibo            :
   xing             :
