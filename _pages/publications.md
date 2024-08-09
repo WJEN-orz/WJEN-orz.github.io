@@ -13,7 +13,10 @@ redirect_from:
 
 _**Minxing Zhang**, Ning Yu, Rui Wen, Michael Backes, Yang Zhang_
 
-IEEE/CVF WACV, 2024 <button name="pdf" style="color:blue" onclick="https://arxiv.org/pdf/2310.19410">pdf</button>
+IEEE/CVF WACV, 2024
+<a href="https://arxiv.org/pdf/2310.19410" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2310.19410" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/minxingzhang/MIAGM" class="btn--code" target="_blank">code</a>
 
 -------------------------------------
 
