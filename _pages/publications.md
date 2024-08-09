@@ -7,6 +7,33 @@ redirect_from:
   - /resume
 ---
 
+<style type="text/css" rel="stylesheet">
+.btn--paper {
+color: white;
+background-color: lightseagreen;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
+.btn--arxiv {
+color: white;
+background-color: tan;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
+.btn--code {
+color: white;
+background-color: DARKORANGE;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
+</style>
+
 -------------------------------------
 
 [Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](http://arxiv.org/abs/2310.19410)
