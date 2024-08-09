@@ -19,6 +19,7 @@ My CV is available [here](./CV.pdf).
 
 ### What's New!
 
+- [08/2024] We released our version of PGD-based adversarial training implementations, which is available [here](https://github.com/minxingzhang/PGD).
 - [08/2024] We released our paper titled [Vera Verto: Multimodal Hijacking Attack](https://arxiv.org/abs/2408.00129) that hijacks a CV victim model to implement the adversary's own NLP task with stealthiness.
 - [10/2023] Our paper titled [Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](https://ieeexplore.ieee.org/document/10484149) was accepted by [IEEE/CVF WACV2024](https://wacv2024.thecvf.com/).
 - [10/2023] We released our paper titled [Generating Less Certain Adversarial Examples Improves Robust Generalization](https://arxiv.org/abs/2310.04539) that proposes to improve robust generalization by our novel definition _Adversarial Certainty_.
