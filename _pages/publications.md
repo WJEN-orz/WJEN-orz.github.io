@@ -52,8 +52,8 @@ IEEE/CVF WACV, 2024
 _**Minxing Zhang**, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang_
 
 ACM CCS, 2021
-<a href="https://arxiv.org/abs/2109.08045" class="btn--paper" target="_blank">pdf</a>
-<a href="https://arxiv.org/pdf/2109.08045" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/pdf/2109.08045" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2109.08045" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/minxingzhang/MIARS" class="btn--code" target="_blank">code</a>
 
 -------------------------------------
@@ -63,7 +63,7 @@ ACM CCS, 2021
 _**Minxing Zhang**, Michael Backes, Xiao Zhang_
 
 arXiv
-<a href="https://arxiv.org/abs/2310.04539" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/pdf/2310.04539" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
 
@@ -74,6 +74,6 @@ arXiv
 _**Minxing Zhang**, Ahmed Salem, Michael Backes, Yang Zhang_
 
 arXiv
-<a href="https://arxiv.org/abs/2408.00129" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/pdf/2408.00129" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2408.00129" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/minxingzhang/ModalHijacking" class="btn--code" target="_blank">code</a>
