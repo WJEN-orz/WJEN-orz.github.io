@@ -26,4 +26,4 @@ My CV is available [here](./CV.pdf).
 - [10/2022] I started my PhD study at [CISPA](https://cispa.de/en).
 - [09/2021] Our paper titled [Membership Inference Attacks Against Recommender Systems](https://dl.acm.org/doi/10.1145/3460120.3484770) was accepted by [ACM CCS 2021](https://www.sigsac.org/ccs/CCS2021/).
 - [05/2021] I joined [CISPA](https://cispa.de/en) as a preparatory-phase student.
-- [06/2020] I obtained my bachelor's degree.
+- [06/2020] I obtained my bachelor's degree from [Shandong University](https://www.sdu.edu.cn/).
