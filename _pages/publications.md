@@ -13,7 +13,7 @@ redirect_from:
 
 _**Minxing Zhang**, Ning Yu, Rui Wen, Michael Backes, Yang Zhang_
 
-IEEE/CVF WACV, 2024
+IEEE/CVF WACV, 2024 <button name="pdf" style="color:blue" onclick="https://arxiv.org/pdf/2310.19410">pdf</button>
 
 -------------------------------------
 
