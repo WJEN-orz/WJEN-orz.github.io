@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Minxing Zhang, and I'm a second-year PhD student in <a href="https://cispa.de/en" target="_blank">CISPA</a> under the supervision of Prof. <a href="https://cispa.de/en/about/director-page" target="_blank">Michael Backes</a> and Dr. <a href="https://xiao-zhang.net/" target="_blank">Xiao Zhang</a>. My research interests are Security & Privacy, Trustworthy Machine Learning, and Model Behavior Explanation. I obtained my B.S. degree from Shandong University (2020) under the supervision of Dr. <a href="https://renzhaochun.github.io/" target="_blank">Zhaochun Ren</a>.
+Hi! This is Minxing Zhang, and I'm a second-year PhD student in <a href="https://cispa.de/en" target="_blank">CISPA</a> advised by Prof. <a href="https://cispa.de/en/about/director-page" target="_blank">Michael Backes</a> and Dr. <a href="https://xiao-zhang.net/" target="_blank">Xiao Zhang</a>. My research interests are Security & Privacy, Trustworthy Machine Learning, and Model Behavior Explanation. I obtained my B.S. degree from Shandong University (2020) under the supervision of Dr. <a href="https://renzhaochun.github.io/" target="_blank">Zhaochun Ren</a>.
+
 My CV is available <a href="./CV.pdf" target="_blank">here</a>.
 
 ---
