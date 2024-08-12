@@ -11,11 +11,15 @@ redirect_from:
 Hi! This is Minxing Zhang, and I'm a second-year PhD student in CISPA under the supervision of Prof. [Michael Backes](https://cispa.de/en/about/director-page) and Dr. [Xiao Zhang](https://xiao-zhang.net/). My research interests are Security & Privacy, Trustworthy Machine Learning, and Model Behavior Explanation. I obtained my B.S. degree from Shandong University (2020) under the supervision of Dr. [Zhaochun Ren](https://renzhaochun.github.io/).
 My CV is available [here](./CV.pdf).
 
+---
+
 ### Research Interests
 
 - Trustworthy Machine Learning
 - Security and Privacy
 - Model Behavior Explanation
+
+---
 
 ### What's New!
 
