@@ -36,9 +36,9 @@ a { TEXT-DECORATION:none }
 
 -------------------------------------
 
-[Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](http://arxiv.org/abs/2310.19410)
+**Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models**
 
-_**Minxing Zhang**, Ning Yu, Rui Wen, Michael Backes, Yang Zhang_
+*Minxing Zhang*, Ning Yu, Rui Wen, Michael Backes, Yang Zhang
 
 IEEE/CVF WACV, 2024
 <a href="https://arxiv.org/pdf/2310.19410" class="btn--paper" target="_blank">pdf</a>
@@ -47,9 +47,9 @@ IEEE/CVF WACV, 2024
 
 -------------------------------------
 
-[Membership Inference Attacks Against Recommender Systems](https://arxiv.org/abs/2109.08045)
+**Membership Inference Attacks Against Recommender Systems**
 
-_**Minxing Zhang**, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang_
+*Minxing Zhang*, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang
 
 ACM CCS, 2021
 <a href="https://arxiv.org/pdf/2109.08045" class="btn--paper" target="_blank">pdf</a>
@@ -58,9 +58,9 @@ ACM CCS, 2021
 
 -------------------------------------
 
-[Generating Less Certain Adversarial Examples Improves Robust Generalization](https://arxiv.org/abs/2310.04539)
+**Generating Less Certain Adversarial Examples Improves Robust Generalization**
 
-_**Minxing Zhang**, Michael Backes, Xiao Zhang_
+*Minxing Zhang*, Michael Backes, Xiao Zhang
 
 arXiv
 <a href="https://arxiv.org/pdf/2310.04539" class="btn--paper" target="_blank">pdf</a>
@@ -69,9 +69,9 @@ arXiv
 
 -------------------------------------
 
-[Vera Verto: Multimodal Hijacking Attack](https://arxiv.org/abs/2408.00129)
+**Vera Verto: Multimodal Hijacking Attack**
 
-_**Minxing Zhang**, Ahmed Salem, Michael Backes, Yang Zhang_
+*Minxing Zhang*, Ahmed Salem, Michael Backes, Yang Zhang
 
 arXiv
 <a href="https://arxiv.org/pdf/2408.00129" class="btn--paper" target="_blank">pdf</a>
