@@ -17,4 +17,4 @@ redirect_from:
 ### Experience
 * 2020.06 - 2021.01: Research Assistant
   * Shandong University
-  * Supervisor: Dr. Zhaochun Ren
+  * Advisor: Dr. Zhaochun Ren
