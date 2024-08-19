@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Minxing Zhang, and I'm a second-year PhD student in <a href="https://cispa.de/en" target="_blank">CISPA</a> supervised by Prof. <a href="https://michaelbackes.eu/" target="_blank">Michael Backes</a> and Dr. <a href="https://xiao-zhang.net/" target="_blank">Xiao Zhang</a>. I obtained my B.S. degree in Computer Science and Technology from <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a> (2020) advised by Dr. <a href="https://renzhaochun.github.io/" target="_blank">Zhaochun Ren</a>.
+Hi! This is Minxing Zhang (张敏行), and I'm a second-year PhD student in <a href="https://cispa.de/en" target="_blank">CISPA</a> supervised by Prof. <a href="https://michaelbackes.eu/" target="_blank">Michael Backes</a> and Dr. <a href="https://xiao-zhang.net/" target="_blank">Xiao Zhang</a>. I obtained my B.S. degree in Computer Science and Technology from <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a> (2020) advised by Dr. <a href="https://renzhaochun.github.io/" target="_blank">Zhaochun Ren</a>.
 
 My CV is available [here](CV.pdf).
 
