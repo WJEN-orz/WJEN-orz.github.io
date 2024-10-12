@@ -36,6 +36,16 @@ a { TEXT-DECORATION:none }
 
 -------------------------------------
 
+## *Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks*
+
+**Minxing Zhang**, Michael Backes, Xiao Zhang
+
+arXiv, 2024
+<a href="https://arxiv.org/pdf/2410.07670" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2410.07670" class="btn--arxiv" target="_blank">arxiv</a>
+
+-------------------------------------
+
 ## *Vera Verto: Multimodal Hijacking Attack*
 
 **Minxing Zhang**, Ahmed Salem, Michael Backes, Yang Zhang
@@ -43,7 +53,6 @@ a { TEXT-DECORATION:none }
 arXiv, 2024
 <a href="https://arxiv.org/pdf/2408.00129" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2408.00129" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://github.com/minxingzhang/ModalHijacking" class="btn--code" target="_blank">code</a>
 
 -------------------------------------
 
@@ -65,7 +74,6 @@ IEEE/CVF WACV, 2024
 arXiv, 2023
 <a href="https://arxiv.org/pdf/2310.04539" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
 
 -------------------------------------
 
