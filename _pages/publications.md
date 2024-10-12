@@ -34,6 +34,8 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
+(**Bold** for me, <sup>*</sup> for equal contribution)
+
 -------------------------------------
 
 ## *Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks*
