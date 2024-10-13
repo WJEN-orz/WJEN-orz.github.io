@@ -24,7 +24,7 @@ My CV is available [here](CV.pdf).
 
 ### What's New!
 
-- [09/2024] We released our paper titled <a href="https://arxiv.org/abs/2410.07670" target="_blank">Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks</a> that proposed the first disappearance attack against HPE via backdoor techniques.
+- [10/2024] We released our paper titled <a href="https://arxiv.org/abs/2410.07670" target="_blank">Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks</a> that proposed the first disappearance attack against HPE via backdoor techniques.
 - [08/2024] I released my implementations of PGD-based adversarial training, which is available <a href="https://github.com/minxingzhang/PGD" target="_blank">here</a>.
 - [08/2024] We released our paper titled <a href="https://arxiv.org/abs/2408.00129" target="_blank">Vera Verto: Multimodal Hijacking Attack</a> that hijacks a CV victim model to implement the adversary's own NLP task with stealthiness.
 - [10/2023] Our paper titled <a href="https://ieeexplore.ieee.org/document/10484149" target="_blank">Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models</a> was accepted by <a href="https://wacv2024.thecvf.com/" target="_blank">IEEE/CVF WACV2024</a>.
