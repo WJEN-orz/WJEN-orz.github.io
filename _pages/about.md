@@ -29,6 +29,7 @@ _Looking forward to future collaborations on interesting projects._
 
 ### What's New!
 
+- [10/2024] Our paper titled <a href="https://arxiv.org/abs/2310.04539" target="_blank">Generating Less Certain Adversarial Examples Improves Robust Generalization</a> is accepted by <a href="[https://wacv2024.thecvf.com/](https://openreview.net/forum?id=MMtK0kUML7)" target="_blank">TMLR</a>.
 - [10/2024] Our paper titled <a href="https://arxiv.org/abs/2410.07670" target="_blank">Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks</a> is available online, which proposed the first disappearance attack against HPE via backdoor techniques.
 - [08/2024] My <a href="https://github.com/minxingzhang/PGD" target="_blank">implementations of PGD-based adversarial training</a> are available online.
 - [08/2024] Our paper titled <a href="https://arxiv.org/abs/2408.00129" target="_blank">Vera Verto: Multimodal Hijacking Attack</a> is available online, which hijacks a CV victim model to implement the adversary's own NLP task with stealthiness.
