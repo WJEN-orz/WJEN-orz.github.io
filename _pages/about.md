@@ -22,8 +22,8 @@ _Looking forward to future collaborations on interesting projects._
 ### Research Interests
 
 - Trustworthy Machine Learning
-- Security and Privacy
-- Model Behavior Explanation
+- AI Security
+- Data Privacy
 
 ---
 
