@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minxing Zhang / a PhD student"
+title                    : "Jingwen Wang / PhD Candidate"
 title_separator          : "-"
-name                     : &name "Minxing Zhang"
-description              : &description "A PhD student at CISPA"
-url                      : https://minxingzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jingwen Wang"
+description              : &description "A PhD Candidate at University of Cologne"
+url                      : https://WJEN-orz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "minxingzhang/minxingzhang.github.io"
+repository               : "WJEN-orz/WJEN-orz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minxing Zhang"
-  avatar           : "minxingzhang.png"
-  bio              : "A PhD Student at CISPA"
-  location         : "Saarbrücken, Germany"
+  name             : "Jingwen Wang"
+  avatar           : "jingwen.png"
+  bio              : "A PhD Candidate at University of Cologne"
+  location         : "Cologne, Germany"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao"
-  email            : "minxing.zhang@cispa.de"
+  # googlescholar    : "https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao"
+  email            : "jwang15@smail.uni-koeln.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"minxingzhang"
+  # github           : #""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "minxing-zhang-45ba982a2"
+  # LinkedIn         : ""
   #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "whoismxmxmx"
+  # twitter          : ""
   vine             :
   weibo            :
   xing             :
